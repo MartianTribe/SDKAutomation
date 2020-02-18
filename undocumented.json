@@ -1,0 +1,145 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/AppDelegate.swift",
+      "line": 16,
+      "symbol": "AppDelegate.applicationDidFinishLaunching(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/AppDelegate.swift",
+      "line": 20,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/AppDelegate.swift",
+      "line": 26,
+      "symbol": "AppDelegate.persistentContainer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/AppDelegate.swift",
+      "line": 55,
+      "symbol": "AppDelegate.saveAction(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/AppDelegate.swift",
+      "line": 73,
+      "symbol": "AppDelegate.windowWillReturnUndoManager(window:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/AppDelegate.swift",
+      "line": 78,
+      "symbol": "AppDelegate.applicationShouldTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/AppManager.swift",
+      "line": 84,
+      "symbol": "String.transformCSVToDictionary()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/NEOCollisionProbablity.swift",
+      "line": 11,
+      "symbol": "NEOCollision",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 11,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 13,
+      "symbol": "ViewController.tblNEO",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 16,
+      "symbol": "ViewController.myAppManager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 17,
+      "symbol": "ViewController.dictData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 18,
+      "symbol": "ViewController.arrNEONames",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 20,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 36,
+      "symbol": "ViewController.CellIdentifiers",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 37,
+      "symbol": "ViewController.CellIdentifiers.NEOCell",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 41,
+      "symbol": "ViewController.numberOfRows(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 45,
+      "symbol": "ViewController.tableView(_:viewFor:row:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp/NEOTrackerApp/ViewController.swift",
+      "line": 66,
+      "symbol": "ViewController.representedObject",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/ssuranie/Desktop/Xandr/Development/MacOS/NEOTrackerApp"
+}
